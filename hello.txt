@@ -3,6 +3,4 @@ git add . or FileName
 git commit -m 'Add a line'
 git remote add origin https://github.com/BingRuei/project1.git
 git push -u origin master
-
-print(“Hello World”);
-print(“Hello World3”);
+git push
