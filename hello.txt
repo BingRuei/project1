@@ -1,1 +1,4 @@
+git init
+git add . or FileName
 print(“Hello World”);
+print(“Hello World3”);
