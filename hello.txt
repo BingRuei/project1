@@ -1,0 +1,21 @@
+第一次建立
+1. 先進到要git的專案底下
+2. git init //初始化專案
+3. git add . or FileName //將此專案全部，或是單一項目加至暫存區
+4. git commit -m ‘評語’ //輸入本次改版評語，並保存到Repository中
+5. git remote add origin https://github.com/BingRuei/project1.git
+// 將此專案加至您的Github暫存區
+6. git push -u origin master //上傳
+
+懶人包, Copy下列指令即可
+git init
+git add .
+git commit -m ‘’
+git remote add origin https://github.com/BingRuei/YOURPROJECT.git
+git push -u origin master
+
+日後更新
+1. 先進到要git的專案底下
+2. git add . or FileName //將此專案全部，或是單一項目加至暫存區
+3. git commit -m ‘評語’ //輸入本次改版評語，並保存到Repository中
+4. git push //上傳至您的Github
