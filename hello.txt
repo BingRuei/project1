@@ -23,5 +23,6 @@ git push -u origin master
 瀏覽樹狀圖
 1. git lg
 2. git lg --all
+3. 好用工具 Sourcetree
 
 // test
