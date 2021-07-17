@@ -25,4 +25,13 @@ git push -u origin master
 2. git lg --all
 3. 好用工具 Sourcetree
 
-// test
+Sourcetree
+1. 切換節點(checkout), 分支(branch), 合併(merge)很方便
+
+GitHub Desktop
+1. Commit跟Push很方便
+
+Sourcetree & GitHub Desktop
+1. 從Github網站上取檔要點Fetch
+2. 取完檔後, 要將當前節點的檔案載到自己的專案, 要點Pull, 然後重新整理專頁
+3. 基本上還是偏用GitHub Desktop
