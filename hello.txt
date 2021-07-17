@@ -19,3 +19,9 @@ git push -u origin master
 2. git add . or FileName //將此專案全部，或是單一項目加至暫存區
 3. git commit -m ‘評語’ //輸入本次改版評語，並保存到Repository中
 4. git push //上傳至您的Github
+
+瀏覽樹狀圖
+1. git lg
+2. git lg --all
+
+// test
