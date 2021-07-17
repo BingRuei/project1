@@ -35,3 +35,5 @@ Sourcetree & GitHub Desktop
 1. 從Github網站上取檔要點Fetch
 2. 取完檔後, 要將當前節點的檔案載到自己的專案, 要點Pull, 然後重新整理專頁
 3. 基本上還是偏用GitHub Desktop
+
+產生新專案時, 記得在GitHub上先新增一個Repositories後, 再從GitHub Desktop上拉下來
